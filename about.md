@@ -11,5 +11,5 @@ I've done projects involving lens design, super-resolution microscopy, and quant
 You can find my CV [here.]({{site.baseurl}}/files/Vallejo-Ramirez,Pedro_resume_Nov2019.pdf)
 
 
-![microscopePic]({{site.baseurl}}/files/microscope_PVR.jpg)
+![microscopePic]({{site.baseurl}}/files/microscopePVR.jpg)
 <!--- ![Headshot]({{site.baseurl}}/files/PPVRHeadshot2.jpg)-->
