@@ -4,7 +4,7 @@ title:  "Optical Projection Tomography of large organ samples"
 date:   2019-10-12 17:41:24 +0100
 categories: jekyll update
 ---
-
+{: style="text-align: justify" }
 I helped build and characterise a low-cost open-source Optical Projection Tomography (OPT) system to image large tissue samples. OPT is an imaging technique used to generate a 3D reconstruction of a cleared sample from a set of 2D projections acquired over a full rotation the sample. We collaborated with AstraZeneca to image a set of adult mouse lungs in a model of chronic obstructive pulmonary disease (COPD).
 
 You can read more about this project on our recent [publication.](https://doi.org/10.1038/s41598-019-52065-0)
