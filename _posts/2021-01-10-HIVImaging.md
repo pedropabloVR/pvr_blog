@@ -13,5 +13,6 @@ In this project, I developed colocalisation analysis and single particle trackin
 Read more about this exciting project in our [preprint.](https://doi.org/10.1101/2020.05.23.112607)
 
 ![eap45-track]({{site.baseurl}}/files/eap45-tracking.png)
+
 {: style="text-align: justify" }
 This composite shows the workflow for tracking two simultaneously moving particles, ESCRTII (magenta) and HIV-Gag (cyan). The frame of reference is centred around the HIV-Gag particle for each frame such that it is stationary over time, and the motion of the ESCRTII (magenta) particle is plotted relative to the new frame of reference. This allows for a more clear visualisation of the relative position of two moving particles.
